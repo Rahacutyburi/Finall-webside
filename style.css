@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+nav {
+    display: flex;
+    height: 60px;
+    background-color: aqua;
+}
+nav a{
+    text-decoration: none;
+    margin: 10px 50px;
+}
